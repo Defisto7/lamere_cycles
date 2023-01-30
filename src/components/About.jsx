@@ -27,7 +27,7 @@ const About = () => {
           </div>
         </div>
         <div className="flex items-center justify-between pr-[79px]">
-          <div className="py-[98px] flex flex-col max-w-[16px] gap-[28px]">
+          <div className="py-[85px] flex flex-col max-w-[16px] gap-[28px]">
             <img className="cursor-pointer" src={google} alt="google" />
             <img className="cursor-pointer" src={twitter} alt="twitter" />
             <img className="cursor-pointer" src={linkendin} alt="linkendin" />
@@ -40,34 +40,34 @@ const About = () => {
       <div className=" bg-[#2F2E30] h-[576px]">
         <img className="absolute right-[0px] top-[40px] z-10" src={bike} alt="bike" />
         <img className="absolute right-[0px] top-[140px]" src={bgBike} alt="bg" />
-        <img className="absolute right-[2px] bottom-[60px]" src={polygon} alt="" />
-        <img className="absolute right-[2px] bottom-[80px]" src={polygon} alt="" />
-        <img className="absolute right-[2px] bottom-[100px]" src={polygon} alt="" />
-        <img className="absolute right-[2px] bottom-[120px]" src={polygon} alt="" />
-        <img className="absolute right-[22px] bottom-[60px]" src={polygon} alt="" />
-        <img className="absolute right-[22px] bottom-[80px]" src={polygon} alt="" />
-        <img className="absolute right-[22px] bottom-[100px]" src={polygon} alt="" />
-        <img className="absolute right-[22px] bottom-[120px]" src={polygon} alt="" />
-        <img className="absolute right-[42px] bottom-[60px]" src={polygon} alt="" />
-        <img className="absolute right-[42px] bottom-[80px]" src={polygon} alt="" />
-        <img className="absolute right-[42px] bottom-[100px]" src={polygon} alt="" />
-        <img className="absolute right-[42px] bottom-[120px]" src={polygon} alt="" />
-        <img className="absolute right-[62px] bottom-[60px]" src={polygon} alt="" />
-        <img className="absolute right-[62px] bottom-[80px]" src={polygon} alt="" />
-        <img className="absolute right-[62px] bottom-[100px]" src={polygon} alt="" />
-        <img className="absolute right-[62px] bottom-[120px]" src={polygon} alt="" />
-        <img className="absolute right-[82px] bottom-[60px]" src={polygon} alt="" />
-        <img className="absolute right-[82px] bottom-[80px]" src={polygon} alt="" />
-        <img className="absolute right-[82px] bottom-[100px]" src={polygon} alt="" />
-        <img className="absolute right-[82px] bottom-[120px]" src={polygon} alt="" />
-        <img className="absolute right-[102px] bottom-[60px]" src={polygon} alt="" />
-        <img className="absolute right-[102px] bottom-[80px]" src={polygon} alt="" />
-        <img className="absolute right-[102px] bottom-[100px]" src={polygon} alt="" />
-        <img className="absolute right-[102px] bottom-[120px]" src={polygon} alt="" />
-        <img className="absolute right-[122px] bottom-[60px]" src={polygon} alt="" />
-        <img className="absolute right-[122px] bottom-[80px]" src={polygon} alt="" />
-        <img className="absolute right-[122px] bottom-[100px]" src={polygon} alt="" />
-        <img className="absolute right-[122px] bottom-[120px]" src={polygon} alt="" />
+        <img className="absolute right-[2px] bottom-[30px]" src={polygon} alt="" />
+        <img className="absolute right-[2px] bottom-[50px]" src={polygon} alt="" />
+        <img className="absolute right-[2px] bottom-[70px]" src={polygon} alt="" />
+        <img className="absolute right-[2px] bottom-[90px]" src={polygon} alt="" />
+        <img className="absolute right-[22px] bottom-[30px]" src={polygon} alt="" />
+        <img className="absolute right-[22px] bottom-[50px]" src={polygon} alt="" />
+        <img className="absolute right-[22px] bottom-[70px]" src={polygon} alt="" />
+        <img className="absolute right-[22px] bottom-[90px]" src={polygon} alt="" />
+        <img className="absolute right-[42px] bottom-[30px]" src={polygon} alt="" />
+        <img className="absolute right-[42px] bottom-[50px]" src={polygon} alt="" />
+        <img className="absolute right-[42px] bottom-[70px]" src={polygon} alt="" />
+        <img className="absolute right-[42px] bottom-[90px]" src={polygon} alt="" />
+        <img className="absolute right-[62px] bottom-[30px]" src={polygon} alt="" />
+        <img className="absolute right-[62px] bottom-[50px]" src={polygon} alt="" />
+        <img className="absolute right-[62px] bottom-[70px]" src={polygon} alt="" />
+        <img className="absolute right-[62px] bottom-[90px]" src={polygon} alt="" />
+        <img className="absolute right-[82px] bottom-[30px]" src={polygon} alt="" />
+        <img className="absolute right-[82px] bottom-[50px]" src={polygon} alt="" />
+        <img className="absolute right-[82px] bottom-[70px]" src={polygon} alt="" />
+        <img className="absolute right-[82px] bottom-[90px]" src={polygon} alt="" />
+        <img className="absolute right-[102px] bottom-[30px]" src={polygon} alt="" />
+        <img className="absolute right-[102px] bottom-[50px]" src={polygon} alt="" />
+        <img className="absolute right-[102px] bottom-[70px]" src={polygon} alt="" />
+        <img className="absolute right-[102px] bottom-[90px]" src={polygon} alt="" />
+        <img className="absolute right-[122px] bottom-[30px]" src={polygon} alt="" />
+        <img className="absolute right-[122px] bottom-[50px]" src={polygon} alt="" />
+        <img className="absolute right-[122px] bottom-[70px]" src={polygon} alt="" />
+        <img className="absolute right-[122px] bottom-[90px]" src={polygon} alt="" />
       </div>
     </div>
   );
