@@ -4,7 +4,8 @@ module.exports = {
   theme: {
     fontFamily: {
       realityHyper: ['RealityHyper', "regular"],
-      labGrotesque: ['LabGrotesque', "regular"]
+      labGrotesque: ['LabGrotesque', "regular"],
+      butler: ['Butler', "regular"],
     },
     extend: {},
   },
